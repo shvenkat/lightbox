@@ -224,45 +224,45 @@ Certain aesthetic choices were made in selecting the above values.
 
 ### Terminal
 
-background            Backgrnd
-foreground            Text
-cursor                Highlight
-emphasis foreground   Highlight
-selection background  Highlight
-selection foreground  Note
+    background            Backgrnd
+    foreground            Text
+    cursor                Highlight
+    emphasis foreground   Highlight
+    selection background  Highlight
+    selection foreground  Note
 
 ### diff
 
-same    Text
-old     Magenta
-new     Cyan
-hunk/function  Blue
-header  Emphasis
+    same    Text
+    old     Magenta
+    new     Cyan
+    hunk/function  Blue
+    header  Emphasis
 
 ### git diff
 
-same      Text
-old       Magenta
-new       Cyan
-hunk      Blue
-function  Blue
-header    Emphasis
-commit    Reverse
+    same      Text
+    old       Magenta
+    new       Cyan
+    hunk      Blue
+    function  Blue
+    header    Emphasis
+    commit    Reverse
 
 ### Syntax highlighting
 
-Keyword   Green
-Type      Yellow
-Function  Blue
-Variable  Text
-Number    Text
-String    Comment
-Comment   Comment
-Preproc   Violet
-Special   Cyan  (escape characters, regexp, label, etc.)
-Todo      Magenta
-Warning   Orange
-Error     Red
+    Keyword   Green
+    Type      Yellow
+    Function  Blue
+    Variable  Text
+    Number    Text
+    String    Comment
+    Comment   Comment
+    Preproc   Violet
+    Special   Cyan  (escape characters, regexp, label, etc.)
+    Todo      Magenta
+    Warning   Orange
+    Error     Red
 
 
 ## References
