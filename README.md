@@ -145,7 +145,7 @@ constraint is required to meet the above requirements.
 ## COLOR VALUES
 
 The Lightbox palettes are based on the Munsell color system, which is
-perceptually uniform unlike CIE L*a*b (see [Lindbloom], [MCSL]). Empirically
+perceptually uniform unlike CIE L\*a\*b (see [Lindbloom], [MCSL]). Empirically
 determined manual adjustments to some elements were necessary, to satisfy the
 above perceptual requirements and to account for the limited precision in
 response and color accuracy of commodity displays.
