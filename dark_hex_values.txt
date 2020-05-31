@@ -1,0 +1,16 @@
+highlight	fdf6e4
+focus	ede6d3
+emphasis	b5c5c6
+text	8ea1a2
+note	798d8e
+comment	657a7c
+tint	1a2e34
+backgrnd	0f252b
+blue	65a1d3
+cyan	5fa994
+green	7eb153
+yellow	ae9b59
+orange	c58668
+red	ee6b77
+magenta	b985ac
+violet	9a95cf
